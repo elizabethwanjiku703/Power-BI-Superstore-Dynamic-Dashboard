@@ -5,6 +5,7 @@
 - It is an educational purpose dataset
 - There are 21 variables and a total of 9994 entries in our dataset:[Kaggle Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 ## Data Description
+![Picture1]
 
 
 
