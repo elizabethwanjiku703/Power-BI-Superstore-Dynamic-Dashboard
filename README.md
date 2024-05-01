@@ -1,11 +1,14 @@
 ## About Data
-a. The dataset was sourced from the [Kaggle website](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and comprises sales transaction records spanning four years, from 2014 to 2017, with the final shipment taking place in January 2018. 
-b. It includes comprehensive information on orders, geographical details, and product-related data. 
-c. Notably, there are no missing values or irrelevant data types or values within this dataset.
+- The dataset was sourced from the [Kaggle website](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and comprises sales transaction records spanning four years, from 2014 to 2017, with the final shipment taking place in January 2018.
+- It includes comprehensive information on orders, geographical details, and product-related data.
+- Notably, there are no missing values or irrelevant data types or values within this dataset.
+- 
 ## Data Description
 ![Picture1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Picture1.jpg)
+
 ## Executive Overview
 Superstore is a fictional US-based retail company that focuses on selling furniture, office supplies, and technology products. I decided to utilize this dataset with an analytical mindset to identify areas for improvement and growth, aiming to boost business success.
+
 ## Business Questions
 1. How do sales vary across customer segments, product categories, and regions, and which segments, categories, and regions significantly contribute to overall sales?
 2. What are the monthly sales trends over the years, including any seasonal patterns, and how do different shipping modes and discounts impact sales performance?
@@ -14,6 +17,12 @@ Superstore is a fictional US-based retail company that focuses on selling furnit
 5. How does profit margin percentage vary across different months, and are there any specific months with notably high or low profit margins?
 6. How are customers distributed across different regions and segments, and are there any high-value customers that significantly impact overall sales and profit?
 7. What is the average time taken to ship orders, and are there any insights into shipping efficiency, customer satisfaction, and its impact on sales and profit?
+## Sales Report Review
+- The analysis of Superstore's sales data over the past four years reveals a total revenue of $10 million, with consumer and technology segments prominently driving sales.
+- The West region emerged as the leader in total quantity sold, accounting for 32.39% of the total quantity.
+- Sales and sales after discounts displayed an increasing trend towards year-end, with 2017 being the highest performing year.
+- Phones stood out as the top-selling sub-category, with a sum of sales at $330,007.05, and California demonstrated strong performance as the leading state in terms of sales, with a sum of sales at $457,687.63.
+[Sales1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Sales1.jpg)
 
 
 
