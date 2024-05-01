@@ -23,6 +23,12 @@ Superstore is a fictional US-based retail company that focuses on selling furnit
 - Sales and sales after discounts displayed an increasing trend towards year-end, with 2017 being the highest performing year.
 - Phones stood out as the top-selling sub-category, with a sum of sales at $330,007.05, and California demonstrated strong performance as the leading state in terms of sales, with a sum of sales at $457,687.63.
 ![Sales1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Sales1.jpg)
+## Profit Report Overview
+- The store's gross profit amounted to $286K, with the highest loss recorded in 2017 and the lowest loss in 2014, indicating a consistent increase in losses from 2014 to 2017.
+- Notably, the technology category contributed the highest profit at the category level, with the West region outperforming others in terms of profitability.
+- The data reveals a positive correlation between sales and profits, signifying that higher sales result in increased profits.
+- However, certain conditions present high sales with low profits, warranting further investigation into this discrepancy. Interestingly, 2016 marked the year with the biggest profit, yet it also experienced the largest loss, highlighting the complexity of the store's financial performance during that period.
+![Profit1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/assets/66907478/4f286074-4c6c-4762-9c4f-5cb9d9779116)
 
 
 
