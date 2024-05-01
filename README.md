@@ -1,3 +1,5 @@
+# Superstore PowerBI Dashboard
+
 ## About Data
 - The dataset was sourced from the [Kaggle website](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and comprises sales transaction records spanning four years, from 2014 to 2017, with the final shipment taking place in January 2018.
 - It includes comprehensive information on orders, geographical details, and product-related data.
