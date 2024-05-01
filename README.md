@@ -28,7 +28,7 @@ Superstore is a fictional US-based retail company that focuses on selling furnit
 - Notably, the technology category contributed the highest profit at the category level, with the West region outperforming others in terms of profitability.
 - The data reveals a positive correlation between sales and profits, signifying that higher sales result in increased profits.
 - However, certain conditions present high sales with low profits, warranting further investigation into this discrepancy. Interestingly, 2016 marked the year with the biggest profit, yet it also experienced the largest loss, highlighting the complexity of the store's financial performance during that period.
-![Profit1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/assets/66907478/4f286074-4c6c-4762-9c4f-5cb9d9779116)
+![Profit1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Profit1.jpg)
 
 
 
