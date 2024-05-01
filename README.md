@@ -22,7 +22,7 @@ Superstore is a fictional US-based retail company that focuses on selling furnit
 - The West region emerged as the leader in total quantity sold, accounting for 32.39% of the total quantity.
 - Sales and sales after discounts displayed an increasing trend towards year-end, with 2017 being the highest performing year.
 - Phones stood out as the top-selling sub-category, with a sum of sales at $330,007.05, and California demonstrated strong performance as the leading state in terms of sales, with a sum of sales at $457,687.63.
-[Sales1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Sales1.jpg)
+![Sales1](https://github.com/elizabethwanjiku703/Power-BI-Superstore-Dynamic-Dashboard/blob/main/Sales1.jpg)
 
 
 
